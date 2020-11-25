@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**SoummerELMehdi/SoummerELMehdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <p align="center" >
   <samp>
     <img src="me.jpg" />    
@@ -39,5 +36,3 @@
 [Reddit]: https://www.reddit.com/user/Strif3__
 [Gmail]: soummermehdi1611@gmail.com
 [Spotify]: https://open.spotify.com/user/26bujl7929zomro4a0klpq3hm
-
--->
