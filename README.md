@@ -6,11 +6,7 @@
     <br>Co Head & Co Founder of Event Cell at <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.facebook.com/InseaIE" ><font color="#007FF">INSEA INNOVATION EDGE Club </font></a></b></br>
 
 
-- Recent GitHub Activity :
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SoummerELMehdi&show_icons=true&theme=synthwave)
-
-- Find me on 📧 :  
+- Find me on :  
   
   [<img align="left" alt="soummermehdi1611 | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/PICOL_icon_Mail.svg/1200px-PICOL_icon_Mail.svg.png" />][Gmail]
   [<img align="left" alt="Strif3__ | Reddit" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/reddit-2-logo-png-transparent.png" />][Reddit]
