@@ -2,9 +2,6 @@
 <p align="center" > 
     <br>I'm a Data & Software Engineering Student , at <b><font color="#19B5FE">INSEA Morocco</font></b>
     <br> interested in <b><font color="#5B3256">Data Engineering</font> , <font color="#763568">Big Data</font> , <font color="#8D608C">Cloud Computing</font> , <font color="#A87CA0">Machine learning</font></b> and new technologies</br>
-    <br>Founder of <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.facebook.com/groups/728003797965249"><font color="#C91F37">Affectation école d'ingénieur ( Post Prepa ) </font></a></b> 
-    <br>Co Head & Co Founder of Event Cell at <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.facebook.com/InseaIE" ><font color="#007FF">INSEA INNOVATION EDGE Club </font></a></b></br>
-
 
 - Find me on :  
   
