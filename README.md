@@ -8,7 +8,7 @@
   [<img align="left" alt="soummermehdi1611 | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/PICOL_icon_Mail.svg/1200px-PICOL_icon_Mail.svg.png" />][Gmail]
   [<img align="left" alt="Strif3__ | Reddit" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/reddit-2-logo-png-transparent.png" />][Reddit]
   [<img align="left" alt="soummermehdi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-  [<img align="left" alt="SoummerELMehdi | Github" width="22px" src="https://cdn.jsdelivr.net/gh/codefresh-io/steps/incubating/github-pr/icon.svg" />][Github]
+  [<img align="left" alt="SoummerELMehdi | Github" width="22px" src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" />][Github]
   [<img align="left" alt="Strif3__ | Spotify" width="22px" src="https://www.impresariat-simmenauer.de/wp-content/themes/simmenauer/img/spotify-black.svg" />][Spotify]
 
 
