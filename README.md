@@ -18,3 +18,7 @@
 [Reddit]: https://www.reddit.com/user/Strif3__
 [Gmail]: soummermehdi1611@gmail.com
 [Spotify]: https://open.spotify.com/user/26bujl7929zomro4a0klpq3hm
+
+- Recent GitHub Activity :
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SoummerELMehdi&show_icons=true&theme=synthwave)
