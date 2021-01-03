@@ -11,8 +11,6 @@
   [<img align="left" alt="SoummerELMehdi | Github" width="22px" src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" />][Github]
   [<img align="left" alt="Strif3__ | Spotify" width="22px" src="https://www.impresariat-simmenauer.de/wp-content/themes/simmenauer/img/spotify-black.svg" />][Spotify]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoummerELMehdi&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-st)
-
 [youtube]: https://youtube.com/codeSTACKr
 [Github]: https://github.com/SoummerELMehdi
 [linkedin]: https://www.linkedin.com/in/soummermehdi/
