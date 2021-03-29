@@ -1,7 +1,7 @@
 ### SOUMMER EL Mehdi
 <p align="center" > 
     <br>I'm a Data & Software Engineering Student , at <b><font color="#19B5FE">INSEA Morocco</font></b>
-    <br> interested in <b><font color="#5B3256">Data Engineering</font> , <font color="#763568">Machine learning</font> , <font color="#763568">Software Development</font> , <font color="#8D608C">Cloud Computing</font> , <font color="#A87CA0">Big Data</font></b> and new technologies</br>
+    <br> interested in <b><font color="#5B3256">Data Engineering</font> , <font color="#763568">Machine learning</font> , <font color="#763568">Deep learning</font> and new technologies</br>
 
 - Find me on :  
   
