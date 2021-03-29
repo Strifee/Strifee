@@ -12,7 +12,7 @@
   [<img align="left" alt="Strif3__ | Spotify" width="22px" src="https://www.impresariat-simmenauer.de/wp-content/themes/simmenauer/img/spotify-black.svg" />][Spotify]
 
 [youtube]: https://youtube.com/codeSTACKr
-[Github]: https://github.com/SoummerELMehdi
+[Github]: https://github.com/Strifee
 [linkedin]: https://www.linkedin.com/in/soummermehdi/
 [Reddit]: https://www.reddit.com/user/Strif3__
 [Gmail]: soummermehdi1611@gmail.com
