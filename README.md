@@ -12,7 +12,7 @@
  
 [<img src="https://img.shields.io/badge/LinkedIn-soummermehdi-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=a5e1ad&&color=a5e1ad"/>][linkedin]
 [<img src="https://img.shields.io/badge/Twitter-@SoummerM-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=4ca1a3&color=4ca1a3"/>][twitter]
-[<img src="https://img.shields.io/badge/Gmail-soummermehdi1611@gmail.com-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=29bb89&&color=29bb89"/>][linkedin]
+[<img src="https://img.shields.io/badge/Gmail-soummermehdi1611@gmail.com-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=29bb89&&color=29bb89"/>][gmail]
 
 [linkedin]: https://www.linkedin.com/in/soummermehdi/
 [twitter]: https://twitter.com/SoummerM
