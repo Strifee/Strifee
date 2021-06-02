@@ -1,19 +1,19 @@
-### SOUMMER EL Mehdi
-<p align="center" > 
-    <br>I'm a Data & Software Engineering Student , at <b><font color="#19B5FE">INSEA Morocco</font></b>
-    <br> interested in <b><font color="#5B3256">Data Engineering</font> , <font color="#763568">Machine learning</font> , <font color="#763568">Deep learning</font> and new technologies</br>
+## **El Mehdi SOUMMER** 
+ <br>
 
-- Find me on :  
-  
-  [<img align="left" alt="soummermehdi1611 | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/PICOL_icon_Mail.svg/1200px-PICOL_icon_Mail.svg.png" />][Gmail]
-  [<img align="left" alt="Strif3__ | Reddit" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/reddit-2-logo-png-transparent.png" />][Reddit]
-  [<img align="left" alt="soummermehdi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-  [<img align="left" alt="SoummerELMehdi | Github" width="22px" src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" />][Github]
-  [<img align="left" alt="Strif3__ | Spotify" width="22px" src="https://www.impresariat-simmenauer.de/wp-content/themes/simmenauer/img/spotify-black.svg" />][Spotify]
+<img align="right" alt="coding" width="250" src="https://images.squarespace-cdn.com/content/v1/5c4ece0e3917ee277d32eaf3/1570273053849-039QAJDGEH8MYUH1LWB1/ke17ZwdGBToddI8pDm48kOlpZEm6lIPwPw_yo_m_zlV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UeSVMWmcuz5YkWBVf_98p9j5HN4wc9JBwr3vukvQUiJxOpYghpI-Ha_TwZsqqmJXng/ramen-and-rain.gif?format=500w">
 
-[youtube]: https://youtube.com/codeSTACKr
-[Github]: https://github.com/Strifee
+<p align="center" >
+    <img width="70" src="https://www.pikpng.com/pngl/b/523-5234445_tri-force-heroes-emoticons-icons-for-you-and.png"/> <br>
+    Hi, I'm a Computer Science Engineering Student, at <b><font color="#19B5FE">INSEA Morocco</font></b><br>
+    interested in <b><font color="#763568">Machine learning</font>, <font color="#763568">Deep learning</font></br></p>  
+ <br>
+ <br>
+ 
+[<img src="https://img.shields.io/badge/LinkedIn-soummermehdi-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=a5e1ad&&color=a5e1ad"/>][linkedin]
+[<img src="https://img.shields.io/badge/Twitter-@SoummerM-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=4ca1a3&color=4ca1a3"/>][twitter]
+[<img src="https://img.shields.io/badge/Gmail-soummermehdi1611@gmail.com-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=29bb89&&color=29bb89"/>][linkedin]
+
 [linkedin]: https://www.linkedin.com/in/soummermehdi/
-[Reddit]: https://www.reddit.com/user/Strif3__
-[Gmail]: soummermehdi1611@gmail.com
-[Spotify]: https://open.spotify.com/user/26bujl7929zomro4a0klpq3hm
+[twitter]: https://twitter.com/SoummerM
+[gmail]: soummermehdi1611@gmail.com
