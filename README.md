@@ -7,7 +7,7 @@
     <br>
     I'm actually learning NLP and working on some projects on it.
     <br>
-    <font color="#763568">looking for a 4 to 6 months internship</font>
+    <font color="#763568">looking for an end-of-studies (4 to 6 months) internship</font>
  <br>
  <br>
  
