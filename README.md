@@ -5,8 +5,6 @@
     <img width="170" src="https://media1.giphy.com/media/c9IdCLK8TDv1e/giphy.gif?cid=ecf05e47zz97ld4gat60vg1tygxuycdfqnyp7rnbho2nnbjh&rid=giphy.gif&ct=g"/> <br>
     Hi, I'm a Data and Computer Science Student, interested in <b><font color="#763568">Deep learning</font>.
     <br>
-    I'm actually learning NLP and working on some projects on it.
-    <br>
     <font color="#763568">looking for an end-of-studies (4 to 6 months) internship</font>
  <br>
  <br>
