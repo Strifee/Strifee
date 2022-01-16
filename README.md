@@ -5,7 +5,6 @@
     <img width="190" src="https://i.giphy.com/media/3o7qE6GmiEj9QsrAKA/giphy.webp"/> <br>
     Hi, I'm a Data and Computer Science Student, interested in <b><font color="#763568">Deep learning</font>.
     <br>
-    <font color="#763568">looking for an end-of-studies (4 to 6 months) internship</font>
  <br>
  <br>
  
