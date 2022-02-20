@@ -6,7 +6,6 @@
     Hi, I'm a Data and Computer Science Student, interested in <b><font color="#763568">Deep learning</font>.
     <br>
     Data Science Intern at  <a href="https://crsa.um6p.ma/home" target="_blank">CRSA (UM6P)</a>
-
     <br>
  <br>
  <br>
