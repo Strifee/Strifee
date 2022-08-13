@@ -3,7 +3,7 @@
 
 <p align="center" >
     <img width="190" src="https://i.giphy.com/media/3o7qE6GmiEj9QsrAKA/giphy.webp"/> <br>
-    Hi, I'm a Data and Computer Science Student, interested in <b><font color="#763568">Deep learning</font>.
+    Hi, I'm a Data Science Engineer and future 2nd year Master student in AI, interested in <b><font color="#763568">Deep learning</font>.
     <br>
     Data Science Intern at  <a href="https://crsa.um6p.ma/home" target="_blank">CRSA (UM6P)</a>
     <br>
