@@ -5,6 +5,7 @@
     <img width="190" src="https://i.giphy.com/media/3o7qE6GmiEj9QsrAKA/giphy.webp"/> <br>
     Hi, I'm a Data Science Engineer and future 2nd year Master student in AI, interested in <b><font color="#763568">Deep learning</font>.
     <br>
+    <br>
 
  <br>
  <br>
