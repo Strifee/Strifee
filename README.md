@@ -5,6 +5,8 @@
     <img width="190" src="https://i.giphy.com/media/3o7qE6GmiEj9QsrAKA/giphy.webp"/> <br>
         <br>
     Hi, I'm a Data Science Engineer and 2nd year Master student in AI, interested in <b><font color="#763568">Deep learning</font>.
+        <br>
+    Currently, I am working as an NLP intern at INRIA, on the automatic detection of the difficulty of texts.
     <br>
 
  <br>
