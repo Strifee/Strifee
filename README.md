@@ -6,7 +6,7 @@
         <br>
     Hi, I'm a Data Scientist/ ML Engineer, interested in <b><font color="#763568">Learning New Things</font>.
         <br>
-    Currently, I am working in Attijari IT AFRICA
+    Currently, working in Attijari IT AFRICA
     <br>
 
  <br>
