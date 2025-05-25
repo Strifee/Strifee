@@ -18,6 +18,6 @@
  
 
 [linkedin]: https://www.linkedin.com/in/soummermehdi/
-[twitter]: https://twitter.com/SoummerM
-[gmail]: mailto:soummerelmehdi@gmail.com
+[twitter]: https://x.com/SoumStrife
+[gmail]: mailto:elmehdisoummer@gmail.com
 
