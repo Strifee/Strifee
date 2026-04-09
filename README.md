@@ -2,7 +2,6 @@
  <br>
 
 <p align="center" >
-    <img width="190" src="https://i.giphy.com/media/3o7qE6GmiEj9QsrAKA/giphy.webp"/> <br>
         <br>
     Hi, I'm a Data Scientist/ ML Engineer, interested in <b><font color="#763568">Learning New Things</font>.
         <br>
