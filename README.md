@@ -1,8 +1,6 @@
 ## **El Mehdi SOUMMER** 
  <br>
 
-<p align="center" >
-        <br>
 Hi 👋,  
 I'm Elmehdi — **AI Engineer** @ Attijari IT Africa.
 
@@ -12,10 +10,10 @@ to **model serving** and **production monitoring**, making sure the whole thing
 runs reliably when it matters.
 
 Feel free to reach out on any of my platforms below.
-    <br>
+
 
  <br>
-     <br>
+
 
 [<img src="https://img.shields.io/badge/LinkedIn-soummermehdi-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=cd5c5c&&color=cd5c5c"/>][linkedin]
 [<img src="https://img.shields.io/badge/Twitter-@Soum-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=5b84c4&color=5b84c4"/>][twitter]
