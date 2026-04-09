@@ -3,9 +3,15 @@
 
 <p align="center" >
         <br>
-    Hi, I'm a Data Scientist/ ML Engineer, interested in <b><font color="#763568">Learning New Things</font>.
-        <br>
-    Currently, working in Attijari IT AFRICA
+Hi 👋,  
+I'm Elmehdi — **AI Engineer** @ Attijari IT Africa.
+
+My main goal is to build **AI that actually works outside a notebook**. 
+Anyone can train a model — I focus on the full picture, from **data pipelines** 
+to **model serving** and **production monitoring**, making sure the whole thing 
+runs reliably when it matters.
+
+Feel free to reach out on any of my platforms below.
     <br>
 
  <br>
