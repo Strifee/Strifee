@@ -5,7 +5,8 @@ Hi 👋,
 I'm Elmehdi — **AI Engineer** @ Attijari IT Africa.
 
 My main goal is to build **AI that actually works outside a notebook**. 
-Anyone can train a model — I focus on the full picture, from **data pipelines** 
+Anyone can train a model.
+I focus on the full picture, from **data pipelines** 
 to **model serving** and **production monitoring**, making sure the whole thing 
 runs reliably when it matters.
 
